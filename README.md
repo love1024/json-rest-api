@@ -7,5 +7,5 @@ Generic Rest API for CRUD operations without doing any configuration
 ``GET``  
 ``GET/:id``  
 ``POST``  
-``PUT``  
+``PUT/:id``  
 ``DELETE/:id``  
